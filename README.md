@@ -1,4 +1,4 @@
-# dit
+# dit (do-it)
 
 **dit** is a small tool that lets you run scripts from your terminal with a single command, and knows which script to run based on where you are.
 
